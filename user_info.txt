@@ -1,0 +1,14 @@
+saket
+samaira
+mehta
+saket
+saket
+guru
+& C:/Python312/python.exe c:/mypython/myapp.py
+alex
+ranvijay
+& C:/Python312/python.exe c:/mypython/myapp.py
+victor
+suk
+kullui
+what
